@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603839225118",
+    "firebase_url": "https://androidtheflash-2962b-default-rtdb.firebaseio.com",
+    "project_id": "androidtheflash-2962b",
+    "storage_bucket": "androidtheflash-2962b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603839225118:android:b750bc48711e954578bd0f",
+        "android_client_info": {
+          "package_name": "com.example.androidtheflash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603839225118-3ruk48tvhb5sfvn5o4cd931cml4h2vr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZlimJZUWjOSKw7D5AuU5MEbtNclQpHf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603839225118-3ruk48tvhb5sfvn5o4cd931cml4h2vr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
